@@ -23,7 +23,7 @@ export default function About() {
       >
         About Me
       </div>
-      <div className="flex flex-row flex-wrap gap-6" style={{padding:'35px'}}>
+      <div className="flex flex-row flex-wrap gap-6" style={{padding:'36px'}}>
         <div className="flex-col mt-14 flex flex-auto w-64 gap-6">
           <h3
             className="text-xl lg:text-3xl font-medium"
